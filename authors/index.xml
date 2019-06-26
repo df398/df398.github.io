@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on David Furman, PhD, MRSC</title>
+    <link>https://df398.github.io/authors/</link>
+    <description>Recent content in Authors on David Furman, PhD, MRSC</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>`&amp;copy` `{yeat}`</copyright>
+    
+	    <atom:link href="https://df398.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://df398.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://df398.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;David Furman is a Herchel Smith Research Fellow at Cambridge University. His research interests include Computational Molecular Science, Multiscale Modeling and Statistical Mechanics. He is the developer of several open-source scientific codes for global optimization, enhanced sampling, reactive molecular dynamics simulations and quantum dynamics.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
